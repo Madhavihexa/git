@@ -1,2 +1,2 @@
 This line is from main branch.
-This is to test conflicts in develop branch
+This is to test conflicts in main branch
